@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master",
+  "description": "Test Your Knowledge & Improve Your Skills with interactive quizzes across multiple categories, daily challenges, and real-time score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
